@@ -1,0 +1,33 @@
+{
+  "name": "passgen.js",
+  "version": "1.0.0",
+  "description": "Simple Password Generator App",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@mohamedibrahim13",
+  "keywords": [
+    "password",
+    "generator",
+    "passgen",
+    "password generator",
+    "passgen.js"
+  ],
+  "homepage": "https://github.com/MohamedIbrahim13/passgen.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MohamedIbrahim13/passgen.js"
+  },
+  "bugs": {
+    "url": "https://github.com/MohamedIbrahim13/passgen.js/issues"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "clipboardy": "^2.3.0",
+    "commander": "^8.0.0"
+  }
+}
